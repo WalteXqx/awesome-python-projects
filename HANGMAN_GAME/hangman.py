@@ -24,7 +24,7 @@ def hangman_game():
 
     name = input("What is your name?")
     name = name.capitalize()
-    print("Hello " + name + ", It is time to play HamgMan")
+    print("Hello " + name + ", It is time to play HangMan")
     print("Start Guessing...")
     guessed_word = []
 
